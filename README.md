@@ -1,5 +1,5 @@
 # macOS 𝕏 - Unfinished, probably never well
-macOS 𝕏 userstyle, makes the site look like the old macOS app when a squared window.
+macOS 𝕏 userstyle, makes the site look like the old macOS app when in a squared window.
 - forked from melongirl's Twitter 21 style as a basis.
 
   <img width="1964" height="1592" alt="image" src="https://github.com/user-attachments/assets/ab473ec4-3993-4570-b056-409083bc8fad" />
